@@ -1,0 +1,13 @@
+C:\Users\marle\source\repos\CADENAS\bin\Debug\netcoreapp3.1\CADENAS.exe
+C:\Users\marle\source\repos\CADENAS\bin\Debug\netcoreapp3.1\CADENAS.deps.json
+C:\Users\marle\source\repos\CADENAS\bin\Debug\netcoreapp3.1\CADENAS.runtimeconfig.json
+C:\Users\marle\source\repos\CADENAS\bin\Debug\netcoreapp3.1\CADENAS.runtimeconfig.dev.json
+C:\Users\marle\source\repos\CADENAS\bin\Debug\netcoreapp3.1\CADENAS.dll
+C:\Users\marle\source\repos\CADENAS\bin\Debug\netcoreapp3.1\CADENAS.pdb
+C:\Users\marle\source\repos\CADENAS\obj\Debug\netcoreapp3.1\CADENAS.csprojAssemblyReference.cache
+C:\Users\marle\source\repos\CADENAS\obj\Debug\netcoreapp3.1\CADENAS.AssemblyInfoInputs.cache
+C:\Users\marle\source\repos\CADENAS\obj\Debug\netcoreapp3.1\CADENAS.AssemblyInfo.cs
+C:\Users\marle\source\repos\CADENAS\obj\Debug\netcoreapp3.1\CADENAS.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\CADENAS\obj\Debug\netcoreapp3.1\CADENAS.dll
+C:\Users\marle\source\repos\CADENAS\obj\Debug\netcoreapp3.1\CADENAS.pdb
+C:\Users\marle\source\repos\CADENAS\obj\Debug\netcoreapp3.1\CADENAS.genruntimeconfig.cache
