@@ -1,0 +1,13 @@
+C:\Users\marle\source\repos\CITAS\bin\Debug\netcoreapp3.1\CITAS.exe
+C:\Users\marle\source\repos\CITAS\bin\Debug\netcoreapp3.1\CITAS.deps.json
+C:\Users\marle\source\repos\CITAS\bin\Debug\netcoreapp3.1\CITAS.runtimeconfig.json
+C:\Users\marle\source\repos\CITAS\bin\Debug\netcoreapp3.1\CITAS.runtimeconfig.dev.json
+C:\Users\marle\source\repos\CITAS\bin\Debug\netcoreapp3.1\CITAS.dll
+C:\Users\marle\source\repos\CITAS\bin\Debug\netcoreapp3.1\CITAS.pdb
+C:\Users\marle\source\repos\CITAS\obj\Debug\netcoreapp3.1\CITAS.csprojAssemblyReference.cache
+C:\Users\marle\source\repos\CITAS\obj\Debug\netcoreapp3.1\CITAS.AssemblyInfoInputs.cache
+C:\Users\marle\source\repos\CITAS\obj\Debug\netcoreapp3.1\CITAS.AssemblyInfo.cs
+C:\Users\marle\source\repos\CITAS\obj\Debug\netcoreapp3.1\CITAS.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\CITAS\obj\Debug\netcoreapp3.1\CITAS.dll
+C:\Users\marle\source\repos\CITAS\obj\Debug\netcoreapp3.1\CITAS.pdb
+C:\Users\marle\source\repos\CITAS\obj\Debug\netcoreapp3.1\CITAS.genruntimeconfig.cache
