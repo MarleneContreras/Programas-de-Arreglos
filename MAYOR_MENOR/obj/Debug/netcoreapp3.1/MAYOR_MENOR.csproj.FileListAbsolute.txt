@@ -1,0 +1,13 @@
+C:\Users\marle\source\repos\MAYOR_MENOR\bin\Debug\netcoreapp3.1\MAYOR_MENOR.exe
+C:\Users\marle\source\repos\MAYOR_MENOR\bin\Debug\netcoreapp3.1\MAYOR_MENOR.deps.json
+C:\Users\marle\source\repos\MAYOR_MENOR\bin\Debug\netcoreapp3.1\MAYOR_MENOR.runtimeconfig.json
+C:\Users\marle\source\repos\MAYOR_MENOR\bin\Debug\netcoreapp3.1\MAYOR_MENOR.runtimeconfig.dev.json
+C:\Users\marle\source\repos\MAYOR_MENOR\bin\Debug\netcoreapp3.1\MAYOR_MENOR.dll
+C:\Users\marle\source\repos\MAYOR_MENOR\bin\Debug\netcoreapp3.1\MAYOR_MENOR.pdb
+C:\Users\marle\source\repos\MAYOR_MENOR\obj\Debug\netcoreapp3.1\MAYOR_MENOR.csprojAssemblyReference.cache
+C:\Users\marle\source\repos\MAYOR_MENOR\obj\Debug\netcoreapp3.1\MAYOR_MENOR.AssemblyInfoInputs.cache
+C:\Users\marle\source\repos\MAYOR_MENOR\obj\Debug\netcoreapp3.1\MAYOR_MENOR.AssemblyInfo.cs
+C:\Users\marle\source\repos\MAYOR_MENOR\obj\Debug\netcoreapp3.1\MAYOR_MENOR.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\MAYOR_MENOR\obj\Debug\netcoreapp3.1\MAYOR_MENOR.dll
+C:\Users\marle\source\repos\MAYOR_MENOR\obj\Debug\netcoreapp3.1\MAYOR_MENOR.pdb
+C:\Users\marle\source\repos\MAYOR_MENOR\obj\Debug\netcoreapp3.1\MAYOR_MENOR.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MAYOR_MENOR/1.0.0": {
+        "runtime": {
+          "MAYOR_MENOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MAYOR_MENOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
