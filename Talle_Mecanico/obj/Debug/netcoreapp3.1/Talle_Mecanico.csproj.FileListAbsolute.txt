@@ -1,0 +1,13 @@
+C:\Users\marle\source\repos\Talle_Mecanico\bin\Debug\netcoreapp3.1\Talle_Mecanico.exe
+C:\Users\marle\source\repos\Talle_Mecanico\bin\Debug\netcoreapp3.1\Talle_Mecanico.deps.json
+C:\Users\marle\source\repos\Talle_Mecanico\bin\Debug\netcoreapp3.1\Talle_Mecanico.runtimeconfig.json
+C:\Users\marle\source\repos\Talle_Mecanico\bin\Debug\netcoreapp3.1\Talle_Mecanico.runtimeconfig.dev.json
+C:\Users\marle\source\repos\Talle_Mecanico\bin\Debug\netcoreapp3.1\Talle_Mecanico.dll
+C:\Users\marle\source\repos\Talle_Mecanico\bin\Debug\netcoreapp3.1\Talle_Mecanico.pdb
+C:\Users\marle\source\repos\Talle_Mecanico\obj\Debug\netcoreapp3.1\Talle_Mecanico.csprojAssemblyReference.cache
+C:\Users\marle\source\repos\Talle_Mecanico\obj\Debug\netcoreapp3.1\Talle_Mecanico.AssemblyInfoInputs.cache
+C:\Users\marle\source\repos\Talle_Mecanico\obj\Debug\netcoreapp3.1\Talle_Mecanico.AssemblyInfo.cs
+C:\Users\marle\source\repos\Talle_Mecanico\obj\Debug\netcoreapp3.1\Talle_Mecanico.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\Talle_Mecanico\obj\Debug\netcoreapp3.1\Talle_Mecanico.dll
+C:\Users\marle\source\repos\Talle_Mecanico\obj\Debug\netcoreapp3.1\Talle_Mecanico.pdb
+C:\Users\marle\source\repos\Talle_Mecanico\obj\Debug\netcoreapp3.1\Talle_Mecanico.genruntimeconfig.cache
