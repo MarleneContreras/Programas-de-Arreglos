@@ -1,0 +1,13 @@
+C:\Users\marle\source\repos\Taller\bin\Debug\netcoreapp3.1\Taller.exe
+C:\Users\marle\source\repos\Taller\bin\Debug\netcoreapp3.1\Taller.deps.json
+C:\Users\marle\source\repos\Taller\bin\Debug\netcoreapp3.1\Taller.runtimeconfig.json
+C:\Users\marle\source\repos\Taller\bin\Debug\netcoreapp3.1\Taller.runtimeconfig.dev.json
+C:\Users\marle\source\repos\Taller\bin\Debug\netcoreapp3.1\Taller.dll
+C:\Users\marle\source\repos\Taller\bin\Debug\netcoreapp3.1\Taller.pdb
+C:\Users\marle\source\repos\Taller\obj\Debug\netcoreapp3.1\Taller.csprojAssemblyReference.cache
+C:\Users\marle\source\repos\Taller\obj\Debug\netcoreapp3.1\Taller.AssemblyInfoInputs.cache
+C:\Users\marle\source\repos\Taller\obj\Debug\netcoreapp3.1\Taller.AssemblyInfo.cs
+C:\Users\marle\source\repos\Taller\obj\Debug\netcoreapp3.1\Taller.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\Taller\obj\Debug\netcoreapp3.1\Taller.dll
+C:\Users\marle\source\repos\Taller\obj\Debug\netcoreapp3.1\Taller.pdb
+C:\Users\marle\source\repos\Taller\obj\Debug\netcoreapp3.1\Taller.genruntimeconfig.cache
